@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="ZeroTram.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Client\Client.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GUI\KilledPassengers.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Data\ServerConfigLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Data\PersistentDataStorage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Client\Client.cs" Line="257" Column="5" />
+      <File FileName="Assets\JSON\JSONObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GUI\ResolutionAdapter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StateMachine\Passenger\PassengerMoveState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StateMachine\MovableCharacter\MoveState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StateMachine\MovableCharacter\MovableCharacterState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StateMachine\MovableCharacter\MovableCharacterSM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level\RandomObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Data\EncryptedPlayerPrefs.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/harinezumi/projects/zerotram/ZeroTram/Assets/Scripts/Data/ServerConfigLoader.cs" line="85" column="1" />
+      <Breakpoint file="/home/harinezumi/projects/zerotram/ZeroTram/Assets/Scripts/Client/Client.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
